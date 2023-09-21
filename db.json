@@ -1,24 +1,21 @@
 {
-  "noticias": [
+  "usuarios": [
     {
-      "titulo": "Post Arnia",
-      "autor": "Marketing Arnia",
-      "imagem": "https://cdn.izap.com.br/linkcom.com.br/plus/images?src=barbara/unnamed-1.jpg&",
-      "texto": "Escola de Programação",
+      "nome": "Anderson",
+      "email": "anderson@gmail.com",
+      "senha": "12345",
       "id": 1
     },
     {
-      "titulo": "Post Izap",
-      "autor": "Marketing Izap",
-      "imagem": "https://cdn.izap.com.br/linkcom.com.br/plus/images?src=barbara/unnamed-1.jpg&",
-      "texto": "Fábrica de Software",
+      "nome": "marcio",
+      "email": "marcio@gmail.com",
+      "senha": "12345",
       "id": 2
     },
     {
-      "titulo": "Post Arthur",
-      "autor": "Marketing Izap",
-      "imagem": "https://cdn.izap.com.br/linkcom.com.br/plus/images?src=barbara/unnamed-1.jpg&",
-      "texto": "Fábrica de Software",
+      "nome": "julio",
+      "email": "julio@gmail.com",
+      "senha": "12345",
       "id": 3
     }
   ]
