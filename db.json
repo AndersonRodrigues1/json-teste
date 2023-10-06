@@ -1,22 +1,12 @@
 {
-  "usuarios": [
+  "professores": [
     {
       "nome": "Anderson",
-      "email": "anderson@gmail.com",
-      "senha": "12345",
+      "disciplina": "português",
+      "perfil": "Professor",
+      "ativo": true,
       "id": 1
-    },
-    {
-      "nome": "marcio",
-      "email": "marcio@gmail.com",
-      "senha": "12345",
-      "id": 2
-    },
-    {
-      "nome": "julio",
-      "email": "julio@gmail.com",
-      "senha": "12345",
-      "id": 3
     }
-  ]
+  ],
+  "alunos": []
 }
