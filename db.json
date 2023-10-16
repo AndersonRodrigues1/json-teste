@@ -8,5 +8,16 @@
       "id": 1
     }
   ],
-  "alunos": []
+  "alunos": [],
+  "usuarios": [
+    { 
+      "nome": "Anderson",
+      "email": "",
+      "senha": "",
+      "celular": "",
+      "telefone": "",
+      "ativo": true,
+      "id": 1
+    }
+  ]
 }
